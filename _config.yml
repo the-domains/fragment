@@ -1,6 +1,6 @@
 name: Fragment
 favicon: null
-layout_spectrum: 0.19838
+layout_spectrum: 0
 typography_spectrum: 0.42778
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#236aa8'
     - '#226aa8'
     - '#2c3e4e'
-  brandStrength: 0.1875
+  brandStrength: 0
   lightness: 0.875
   saturation: 1
   rhythmicContrast: 0
